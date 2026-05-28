@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeindreyes-scene.github.io/sitemap.xml
